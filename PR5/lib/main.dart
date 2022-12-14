@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:sharedpreferences/main1.dart';
+import 'package:PR5/main1.dart';
 
 void main() {
   runApp(const MyApp());

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:shared_preferences/shared_preferences.dart';
-import 'package:sharedpreferences/main.dart';
+import 'package:PR5/main.dart';
 
 
 class SecondPage extends StatefulWidget {
